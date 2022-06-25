@@ -26,6 +26,6 @@
  
  ## Changes regarding the course design:
 
-   New css variables were created, changing the colors of the site, texts, buttons.
+    New css variables were created, changing the colors of the site, texts, button;
    
-   Added an alert in case of fetching error;
+    Added an alert in case of fetching error.
